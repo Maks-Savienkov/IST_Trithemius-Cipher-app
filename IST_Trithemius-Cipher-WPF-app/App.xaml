@@ -1,0 +1,9 @@
+﻿<Application x:Class="IST_Trithemius_Cipher_WPF_app.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:IST_Trithemius_Cipher_WPF_app"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
